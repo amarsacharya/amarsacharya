@@ -1,0 +1,23 @@
+#a{
+    color: white;
+    background-color: black;
+    border: 5px;
+    margin: auto;
+}
+#b{
+    padding: 20px;
+}
+#ig{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+
+}
+.c{
+    color: white;
+    background-color: black;
+    border: 5px;
+    margin: auto;
+    padding: 20px;
+}
